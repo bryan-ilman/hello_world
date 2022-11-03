@@ -1,4 +1,4 @@
-# hello_world
+# pbp-flutter-tutorial
 
 A new Flutter project.
 
